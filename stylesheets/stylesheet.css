@@ -303,6 +303,13 @@ p {
   font-weight: 300;
 }
 
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+
 a {
   text-decoration: none;
 }
