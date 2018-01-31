@@ -257,6 +257,10 @@ itl {
   font-style: italic;
 }
 
+dates {
+  align="right";
+}
+
 h1 {
   font-size: 32px;
   font-weight: bold;
