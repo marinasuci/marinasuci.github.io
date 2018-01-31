@@ -91,7 +91,11 @@ header h1 {
 
 #container {
   min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  
+  background-image:url(wood.png);
+  background-position:center;
+  width:100%;
+  height:400px;
 }
 
 .inner {
