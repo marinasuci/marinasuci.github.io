@@ -245,6 +245,10 @@ form {
 
 /* GENERAL ELEMENT TYPE STYLES */
 
+bld {
+  font-weight: bold;
+}
+
 h1 {
   font-size: 32px;
 }
