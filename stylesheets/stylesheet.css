@@ -82,12 +82,12 @@ header h1 {
 }
 
 .inner {
-  width: 720px;
+  width: 620px;
   margin: 0 auto;
 }
 
 #container .inner img {
-  max-width: 150%;
+  max-width: 100%;
 }
 
 #downloads {
