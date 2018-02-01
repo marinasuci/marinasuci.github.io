@@ -69,10 +69,10 @@ body {
    /* background-size: cover; */
 /*}*/
 
-img.first-r  { left: 0%; position: relative; }
-img.second-r { left: 25%; position: relative; }
-img.third-r  { left: 50%; position: relative; }
-img.third-r  { left: 75%; position: relative; }
+A.first-r  { left: 0%; position: relative; }
+A.second-r { left: 25%; position: relative; }
+A.third-r  { left: 50%; position: relative; }
+A.third-r  { left: 75%; position: relative; }
 
 a {
   color: #d5000d;
