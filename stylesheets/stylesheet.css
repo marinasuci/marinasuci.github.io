@@ -69,17 +69,6 @@ body {
    /* background-size: cover; */
 /*}*/
 
-#movers-row {
-	margin: -120px 0 0 120px;
-}
-#movers-row div {
-	width: 33.3%;
-	float: left;
-}
-#movers-row div img {
-	float: right;
-}
-
 a {
   color: #d5000d;
 }
