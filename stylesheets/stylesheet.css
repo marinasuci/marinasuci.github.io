@@ -46,6 +46,13 @@ table {
 	border-collapse: collapse;
 }
 
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
 /* LAYOUT STYLES */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
