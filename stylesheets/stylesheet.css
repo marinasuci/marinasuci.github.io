@@ -69,10 +69,16 @@ body {
    /* background-size: cover; */
 /*}*/
 
-A.first-r  { left: 0%; position: relative; }
-A.second-r { left: 25%; position: relative; }
-A.third-r  { left: 50%; position: relative; }
-A.third-r  { left: 75%; position: relative; }
+#movers-row {
+	margin: -120px 0 0 120px;
+}
+#movers-row div {
+	width: 33.3%;
+	float: left;
+}
+#movers-row div img {
+	float: right;
+}
 
 a {
   color: #d5000d;
