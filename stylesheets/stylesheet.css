@@ -276,9 +276,10 @@ h1 {
 h2 {
   margin-bottom: 8px;
   font-size: 20px;
-  color: #363636;
+  color: #360000;
   padding-left: 1cm;
   text-align="center"
+  font-family: "Indie Flower", Times, serif;
   /*font-weight: bold;*/
   /*text-align: right;*/
   /*color: #303030;*/
