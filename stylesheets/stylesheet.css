@@ -104,6 +104,13 @@ header h1 {
   padding-left="20px";
 }
 
+#Bio {
+  padding-top="20px";
+  padding-bottom="20px";
+  padding-right="20px";
+  padding-left="20px";
+}
+
 #container {
   min-height: 595px;
   background-image:url(wood.png);
