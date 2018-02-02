@@ -50,7 +50,7 @@ table {
 	float: left;
 }
 .alignright {
-	/*float: right;*/
+	float: right;
 	padding-left: 2cm;
 }
 
