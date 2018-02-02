@@ -98,17 +98,19 @@ header h1 {
 }
 
 #ProfPic {
-  padding-top="20px";
-  padding-bottom="20px";
-  padding-right="20px";
-  padding-left="20px";
+  padding-top:"20px";
+  padding-bottom:"20px";
+  padding-right:"20px";
+  padding-left:"20px";
+  float:"left";
 }
 
 #Bio {
-  padding-top="20px";
-  padding-bottom="20px";
-  padding-right="20px";
-  padding-left="20px";
+  padding-top:"20px";
+  padding-bottom:"20px";
+  padding-right:"20px";
+  padding-left:"20px";
+  float:"right";
 }
 
 #container {
