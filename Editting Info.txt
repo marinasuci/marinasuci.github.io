@@ -1,0 +1,3 @@
+To Edit Color of Icons
+- Upload icon in Sketchbook and use paint bucket to change color
+- Use https://www298.lunapic.com/editor/?action=transparent to make background transparent and crop image
