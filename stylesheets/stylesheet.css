@@ -97,6 +97,11 @@ header h1 {
   letter-spacing: -1px;
 }
 
+#ProfPic {
+  padding-right="2cm";
+
+}
+
 #container {
   min-height: 595px;
   background-image:url(wood.png);
