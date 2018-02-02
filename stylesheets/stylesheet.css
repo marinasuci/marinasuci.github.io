@@ -292,6 +292,8 @@ h1 {
   font-size: 32px;
   font-weight: bold;
   text-align: center;
+  opacity: 0.5;
+  color: ##66eeeb;
 }
 
 h2 {
