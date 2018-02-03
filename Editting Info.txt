@@ -11,3 +11,4 @@ Colors
 - #f2f2f2
 - #acffee
 - #ccfff4
+- #674B2B --- Brown
