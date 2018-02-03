@@ -93,7 +93,7 @@ header h1 {
 
 #ProfPic {
   padding-top:5px;
-  padding-bottom:10px;
+  padding-bottom:20px;
   padding-right:10px;
   padding-left:10px;
   float:left;
@@ -102,7 +102,7 @@ header h1 {
 
 #Bio {
   padding-top:5px;
-  padding-bottom:10px;
+  padding-bottom:20px;
   padding-right:10px;
   padding-left:10px;
   /*float:right;*/
