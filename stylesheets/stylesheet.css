@@ -120,7 +120,7 @@ header h1 {
 
 .inner {
   /*width: 840px;*/
-  width: screen.width*.8;
+  width: screen.width*.7;
   margin: 0 auto;
 }
 
@@ -288,8 +288,8 @@ h1 {
   font-weight: bold;
   text-align: center;
   opacity: 0.7;
-  /*color: #8cb1ac;*/
-  color: #000000;
+  color: #8cb1ac;
+  /*color: #000000;*/
 }
 
 h2 {
