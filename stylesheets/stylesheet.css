@@ -118,6 +118,18 @@ header h1 {
   height:100%;
 }
 
+#Footer {
+  width: 85vw;
+  height: 72px;
+  background: #4da89c;
+  font-size: 14px;
+  /*font-weight: bold;*/
+  text-align: center;
+  opacity: 0.6;
+  font-style: normal;
+  color: #000000;
+}
+
 .inner {
   /*width: 840px;*/
   width: 85vw;
@@ -287,7 +299,7 @@ h1 {
   font-size: 64px;
   font-weight: bold;
   text-align: center;
-  opacity: 0.7;
+  opacity: 0.6;
   font-style: normal;
   color: #4da89c;
   /*color: #8cb1ac;
