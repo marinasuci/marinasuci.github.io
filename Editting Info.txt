@@ -4,3 +4,10 @@ To Edit Color of Icons
 
 To Edit Portrait
 - http://www.photo-kako.com/en/vignette.cgi?use=files&file=b65b9562839c5b180b32d7ac54d57ff5&files=1&renewfile=&previousfile=a452cf58fd9d48200a09e9837ca566a9ac999e0610f312d5a7&base=jpg&config=3070,2,640,0,ffffff,80,1,0,0,808080,100,,a,100,40,2,a,0,0,0,0,1,1,100,100,0,1,0,0,0,0,64&&amp;backgroundcolor=ffffff&amp;backgroundtransparent=0&amp;theme=default&amp;themeb=default&amp;menuinputb=p&amp;backgroundwidth=40&amp;amount=100&amp;smoothamount=20&amp;borderwidth=40
+
+Colors
+- #d6d6d6
+- #6d6d6d
+- #f2f2f2
+- #acffee
+- #ccfff4
