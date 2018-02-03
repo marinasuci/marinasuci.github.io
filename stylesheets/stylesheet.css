@@ -284,10 +284,11 @@ dates {
 }
 
 h1 {
-  font-size: 54px;
+  font-size: 64px;
   font-weight: bold;
   text-align: center;
   opacity: 0.7;
+  font-style: normal;
   color: #8cb1ac;
   /*color: #000000;*/
 }
