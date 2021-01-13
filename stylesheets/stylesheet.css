@@ -131,6 +131,19 @@ header h1 {
   color: #000000;
 }
 
+#Title {
+  padding-top: 12px;
+  margin-top: 42px;
+  width: 100vw;
+  height: 36px;
+  background: #32d1c6;
+  font-size: 64px;
+  /*font-weight: bold;*/
+  opacity: 0.6;
+  font-style: normal;
+  color: #000000;
+}
+
 .inner {
   /*width: 840px;*/
   width: 85vw;
