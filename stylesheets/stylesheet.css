@@ -132,10 +132,10 @@ header h1 {
 }
 
 #Title {
-  padding-top: 12px;
-  /*margin-top: 42px;*/
+  /*padding-top: 12px;
+  margin-top: 42px;
+  height: 108px;*/
   width: 100vw;
-  height: 108px;
   background: #0ebadd;
   font-size: 84px;
   /*font-weight: bold;*/
